@@ -1,9 +1,5 @@
-{#mainpage}
 # Computer programming (110)
 ### 3D Graphic library - specyfication and documentation
-**Student**: *Robert Okenczyc 298990* 
-**Instructor**: *Piotr Fabian* 
-**Year**: *2021 (II sem)*
 
 # Brief description:
 This library contains classes with definitions of simple 3D shapes and methods to modify them, print them as plain data or show them in Allegro 5 window as points or/and lines. Every method was written to accept or return 3D point data. 
